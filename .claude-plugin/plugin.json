@@ -1,0 +1,20 @@
+{
+  "name": "airport-pickups-london",
+  "displayName": "Airport Pickups London",
+  "version": "1.0.4",
+  "description": "Fixed-price UK airport and cruise port transfers: instant quotes, flight checks and real bookings from Airport Pickups London (TfL licence 008004).",
+  "author": {
+    "name": "Airport Pickups London",
+    "email": "info@aplcars.com",
+    "url": "https://www.airport-pickups-london.com"
+  },
+  "homepage": "https://www.airport-pickups-london.com",
+  "repository": "https://github.com/mfy-apl/claude-plugin-airport-pickups-london",
+  "license": "MIT-0",
+  "keywords": ["airport transfer", "taxi", "london", "heathrow", "gatwick", "stansted", "luton", "cruise port", "booking", "travel", "mcp"],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://mcp.airport-pickups-london.com/docs",
+  "supportUrl": "https://www.airport-pickups-london.com/contact-us",
+  "privacyPolicyUrl": "https://www.airport-pickups-london.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.airport-pickups-london.com/terms"
+}
